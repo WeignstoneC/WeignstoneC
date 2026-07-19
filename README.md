@@ -1,83 +1,29 @@
-<div align="center">
+# Hi 👋 I'm Weignstone Churchill
 
-# 👋 Hi, I'm Weignstone Churchill
+### 💻 Software Engineer | 🌐 Web Developer | ☁️ Cloud Learner | 🔐 Cybersecurity Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;I'm+Weignstone+Churchill;Always+Learning+🚀" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Building+Modern+Applications;Learning+Every+Day;Open+to+Collaboration)
 
-### 💻 My Specializations
+## 🚀 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1800&pause=700&color=39FF14&center=true&vCenter=true&width=850&lines=🌐+Web+Development;🔐+Cybersecurity;⚙️+Software+Engineering;☁️+Cloud+Computing;🚀+Building+Modern+Solutions" />
+🎓 Student at Mount Kenya University
 
-<img src="https://komarev.com/ghpvc/?username=WeignstoneC&label=Profile+Views&color=00F7FF&style=for-the-badge" />
+🎓 Learner at Moringa School
 
-</div>
+🌱 Currently learning Cloud Computing & Software Engineering
 
----
+💡 Passionate about creating innovative solutions
 
-# 🚀 About Me
+## 💻 Tech Stack
 
-🎓 Student at **Mount Kenya University**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,vscode,linux,docker,mysql" />
 
-🎓 Software Engineering Learner at **Moringa School**
+## 📊 GitHub Stats
 
-💡 Passionate about solving real-world problems through technology.
+![](https://github-readme-stats.vercel.app/api?username=WeignstoneC&show_icons=true&theme=tokyonight)
 
-🌱 Constantly improving my skills in software engineering, cloud computing, cybersecurity, and modern web development.
+![](https://github-readme-streak-stats.herokuapp.com/?user=WeignstoneC&theme=tokyonight)
 
----
+## 📫 Contact
 
-# 💻 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,java,git,github,vscode,linux,docker,mysql,aws" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=WeignstoneC&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeignstoneC&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WeignstoneC&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=WeignstoneC&theme=tokyonight&no-frame=true&column=4"/>
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:weignstonechurchill@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/WeignstoneC">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ⭐ *"Code • Secure • Build • Innovate"*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=6,11,20,30&section=footer"/>
-
-</div>
+📧 weignstonechurchill@gmail.com
