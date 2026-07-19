@@ -1,24 +1,29 @@
-# Hi, I'm Weignstone Churchill 👋
+# Hi 👋 I'm Weignstone Churchill
 
-I am a passionate and ambitious student at Mount Kenya University and a learner at Moringa School. I am deeply interested in technology, innovation, and building solutions that make a difference.
+### 💻 Software Engineer | 🌐 Web Developer | ☁️ Cloud Learner | 🔐 Cybersecurity Enthusiast
 
-## About Me
-I am professionally focused on:
-- Web Development
-- Cybersecurity
-- Software Engineering
-- Cloud Computing
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Building+Modern+Applications;Learning+Every+Day;Open+to+Collaboration)
 
-I am currently expanding my knowledge in Computer Science while strengthening my technical skills through practice, projects, and continuous learning.
+## 🚀 About Me
 
-## Interests
-- Building modern and responsive websites
-- Exploring cybersecurity and digital safety
-- Developing software solutions
-- Learning cloud technologies and scalable systems
+🎓 Student at Mount Kenya University
 
-## Contact
-If you would like to connect or collaborate, feel free to reach me at:
-- Email: weignstonechurchill@gmail.com
+🎓 Learner at Moringa School
 
-Thank you for visiting my profile!
+🌱 Currently learning Cloud Computing & Software Engineering
+
+💡 Passionate about creating innovative solutions
+
+## 💻 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,vscode,linux,docker,mysql" />
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=weignstonechurchill&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=weignstonechurchill&theme=tokyonight)
+
+## 📫 Contact
+
+📧 weignstonechurchill@gmail.com
